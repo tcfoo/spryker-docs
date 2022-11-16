@@ -9,6 +9,8 @@ This style guide provides formatting guidelines for writing consistent Spryker d
 
 ## Text formatting reference
 
+ ### Italics
  Use italics to for UI elements such as page, window, and tab names.
  
+ ### Bold
  Use bold to indicate actions to be performed by the reader.
