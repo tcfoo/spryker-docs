@@ -1,6 +1,6 @@
 ---
-title: Product Relations feature overview
-description: Product Relations is a feature that allows grouping products by attributes for easier navigation and accessibility.
+title: Product Relationship Management
+description: Product Relation Management lets you group products by attributes for easier navigation and accessibility.
 last_updated: Jun 16, 2021
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/2021080/docs/product-relations-feature-overview
@@ -17,7 +17,7 @@ redirect_from:
   - /docs/scos/user/features/202200.0/product-relations-feature-overview.html
 ---
 
-The _Product Relations_ feature lets product catalog managers create logical relations between products based on their actual properties. Product relations are displayed on the Storefront to achieve multiple purposes:
+The _Product Relationshiphn Management_ capability lets product catalog managers create logical relations between products based on their actual properties. Product relations are displayed on the Storefront to achieve multiple purposes:
 * Promote products in cart.
 * Recommend product alternatives.
 * Display comparable or additional products to the product a customer is viewing.
@@ -122,16 +122,28 @@ If no store relation is defined for a product relation, it is not displayed on S
 
 Stores are defined when creating or editing a product relation in the Back Office.
 
+## Installation
+
+To install Product Relation Management, do the following:
+
+1. Install the required modules:
+
+```bash
+composer require "spryker-feature/product-relations:"{{site.version}}" spryker/related-products-rest-api:"^1.0.0" spryker/up-selling-products-rest-api:"^1.0.0" --update-with-dependencies
+```
+
+2. Follow the integration guides in [Related Developer articles](#related-developer-articles)
+
 ## Related Business User articles
 
 |BACK OFFICE USER GUIDES|
 |---|
-| [Get a general idea of the Product Relations feature](/docs/scos/user/features/{{page.version}}/product-rating-and-reviews-feature-overview.html)  |   |
 | [Create product relations](/docs/scos/user/back-office-user-guides/{{page.version}}/merchandising/product-relations/create-product-relations.html)  |   |
 | [Manage product relations](/docs/scos/user/back-office-user-guides/{{page.version}}/merchandising/product-relations/managing-product-relations.html)  |   |
 
-{% info_block warningBox "Developer guides" %}
+## Related Developer articles
 
-Are you a developer? See [Product Relations feature walkthrough](/docs/scos/dev/feature-walkthroughs/{{page.version}}/product-relations-feature-walkthrough/product-relations-feature-walkthrough.html) for developers.
-
-{% endinfo_block %}
+| INSTALLATION GUIDES | UPGRADE GUIDES|
+|---------|---------|
+|[Product relations feature integration](/docs/scos/dev/feature-integration-guides/{{page.version}}/glue-api/glue-api-product-relations-feature-integration.html) | [ProductRelation migration guide](/docs/scos/dev/module-migration-guides/migration-guide-productrelation.html) |
+| [Glue API: Product relations feature integration](/docs/scos/dev/feature-integration-guides/{{page.version}}/glue-api/glue-api-product-relations-feature-integration.html) | [ProductRelationStorage migration guide](/docs/scos/dev/module-migration-guides/migration-guide-productrelationstorage.html) |
