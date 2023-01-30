@@ -23,6 +23,7 @@ redirect_from:
   - /v1/docs/spryker-middleware
   - /v1/docs/en/spryker-middleware
   - /spryker-middleware.htm
+  - /docs/spryker-middleware%20
 ---
 
 ## Overview
