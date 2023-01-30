@@ -38,6 +38,7 @@ redirect_from:
   - /v1/docs/en/about-zed
   - /v1/docs/zed
   - /v1/docs/en/zed
+  - /docs/about-zed
 related: 
   - title: Add navigation in the Back Office
     link: docs/scos/dev/back-end-development/zed/add-navigation-in-the-back-office.html
