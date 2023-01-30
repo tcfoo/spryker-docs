@@ -5,6 +5,7 @@ template: howto-guide-template
 redirect_from:
   - /docs/configuring-github-actions
   - /docs/en/configuring-github-actions
+  - /docs/cloud/dev/spryker-cloud-commerce-os/configuring-deployment-pipelines/configuring-github-actions.html
 ---
 
 This document describes how to configure continuous integration using GitHub Actions.
