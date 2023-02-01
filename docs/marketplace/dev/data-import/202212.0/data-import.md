@@ -3,7 +3,8 @@ title: Data import
 description:  Import data from other systems into your marketplace project
 last_updated: Sep 7, 2022
 template: concept-topic-template
-/docs/marketplace/dev/data-import/202108.0/data-import.html
+redirect_from: 
+  - /docs/marketplace/dev/data-import/202108.0/data-import.html
 ---
 
 Spryker’s customers need to import data from other systems into their Spryker Marketplace project. The _Data import_ section holds all the needed information for that. For more details, see the following documents:
