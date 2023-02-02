@@ -1,10 +1,10 @@
 ---
 title: SCOS Developer Guides
-description: 
+description: Resources for developers working with the Spryker Commerce OS.
 last_updated: Feb 2, 2023
 template: concept-topic-template
 ---
-
+Here find developer resources that explain how to build, manage and upgrade a Spryker Commerce OS project:
 
 * [**Developer getting started guide**](/docs/scos/dev/developer-getting-started-guide.html) – A step-by-step checklist to getting started with the Spryker Commerce OS.
 
