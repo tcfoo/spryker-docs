@@ -54,39 +54,39 @@ Integration guides for tools that enhance the Spryker Commerce OS.
 
 How to work with the Spryker Commerce OS SDK.
 
-[**Tutorials and Howtos**]
+[**Tutorials and Howtos**](/docs/scos/dev/tutorials-and-howtos/tutorials-and-howtos.html)
 
 Introduction and advanced tutorials, and how-tos for working with features, Glue API, and other topics relevant to developers.
 
-[**Technology partner guides**]
+[**Technology partner guides**](/docs/scos/dev/technology-partner-guides/202212.0/technology-partner-guides.html)
 
 Guides for developing in collaboration with technology partners on Spryker Commerce OS, so you cn enrich the Spryker Commerce OS with services to complete your e-commerce project. 
 
-[**Architecture**]
+[**Architecture**](/docs/scos/dev/architecture/architecture.html)
 
 The OS architecture is based on the principles of strict modularity and separation to provide you with a clear path for development and extension of the Spryker Commerce OS. This architecture guide helps you understand how these principles are implemented on different levels, so you can customize, extend, and integrate with external services  such as payment providers and order processors. 
 
-[**Guidelines**]
+[**Guidelines**](/docs/scos/dev/guidelines/guidelines.html)
 
 Guidelines for developing on the Spryker Commerce OS.
 
-[**Best practices**]
+[**Best practices**](/docs/scos/dev/best-practices/best-practices.html)
 
 Best practices and recommendations for developing on Spryker Commerce OS.
 
-[**Troubleshooting**]
+[**Troubleshooting**](/docs/scos/dev/troubleshooting/troubleshooting.html)
 
 Answers to common troubleshooting questions.
 
-[**Updating a Spryker-based project**]
+[**Updating a Spryker-based project**](/docs/scos/dev/updating-a-spryker-based-project.html)
 
 Recommendations to make the Spryker update process smoother, easier, and more predictable.
 
-[**Analyzing and upgrading your project with Spryker Jarvis**]
+[**Analyzing and upgrading your project with Spryker Jarvis**](/docs/scos/dev/analyzing-and-upgrading-your-project-with-spryker-jarvis.html)
 
 How to install and use  Spryker Jarvis, the command-line tool that lets you analyze your Spryker-based project and migrate it to the most up-to-date version of Spryker.
 
-[**Code contribution guide**] (/docs/scos/dev/code-contribution-guide.html)
+[**Code contribution guide**](/docs/scos/dev/code-contribution-guide.html)
 
 Spryker welcomes contributions in all forms, be it detailed Issues or Pull Requests (PRs). This section describes how to contribute.
 
