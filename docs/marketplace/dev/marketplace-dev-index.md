@@ -15,15 +15,15 @@ Here find developer resources that explain how to build, manage and upgrade a Sp
 
 * [**Feature integration guides**](/docs/marketplace/dev/feature-integration-guides/202212.0/feature-integration-guides.html) – Step-by-step instructions on how to enable individual Spryker features for your Marketplace project.  
 
-* [**Module migration guides**]() – How to update a module to the newer version when a module's new major version released.
+* [**Module migration guides**](/docs/marketplace/dev/module-migration-guides/module-migration-guides.html) – How to update a module to the newer version when a module's new major version released.
 
 * [**Glue API guides**](/docs/marketplace/dev/glue-api-guides/202212.0/glue-api-guides.html) – A collection of guides that explain the Glue API endpoints used when developing in Spryker Marketplace.
 
-[**Data export**]
+* [**Data export**](/docs/marketplace/dev/data-export/202212.0/data-export-merchant-orders-csv-files-format.html) – Describes the content of the files generated when exporting order data.
 
-* [**Data import**](/docs/scos/dev/data-import/202212.0/data-import.html) – How to import data from other systems into the Spryker Commerce OS project. 
+* [**Data import**](/docs/scos/dev/data-import/202212.0/data-import.html) – How to import data from other systems into the Spryker Marketplace project. 
 
-* [**Frontend**]/docs/marketplace/dev/front-end/202212.0/front-end.html) – How to build and set up the Merchant Portal front-end and add additional frontend functionality.
+* [**Frontend**](/docs/marketplace/dev/front-end/202212.0/front-end.html) – How to build and set up the Merchant Portal front-end and add additional frontend functionality.
 
 * [**Howtos**](/docs/marketplace/dev/howtos/howtos.html) – How-tos for developing in the Marketplace platform.
 
