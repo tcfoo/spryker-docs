@@ -32,9 +32,9 @@ Here find developer resources that explain how to build, manage and upgrade a Sp
 
 * [**Tutorials and Howtos**](/docs/scos/dev/tutorials-and-howtos/tutorials-and-howtos.html) – Introduction and advanced tutorials, and how-tos for working with features, Glue API, and other topics relevant to developers.
 
-* [**Technology partner guides**](/docs/scos/dev/technology-partner-guides/202212.0/technology-partner-guides.html) – Guides for developing in collaboration with technology partners on Spryker Commerce OS, so you cn enrich the Spryker Commerce OS with services to complete your e-commerce project. 
+* [**Technology partner guides**](/docs/scos/dev/technology-partner-guides/202212.0/technology-partner-guides.html) – Guides for developing in collaboration with technology partners on Spryker Commerce OS, so you can enrich the Spryker Commerce OS with services to complete your e-commerce project. 
 
-* [**Architecture**](/docs/scos/dev/architecture/architecture.html) – The Spryker Commerce OS architecture is based on the principles of strict modularity and separation to provide you with a clear development and extension path. This architecture guide helps you understand how these principles are implemented on different levels so you can customize, extend, and integrate with external services such as payment providers and order processors. 
+* [**Architecture**](/docs/scos/dev/architecture/architecture.html) – Spryker Commerce OS architecture is based on principles of strict modularity and separation so you have a clear development and extension path. This guide helps you understand how these principles are implemented so you can customize, extend, and integrate with external services such as payment providers and order processors. 
 
 * [**Guidelines**](/docs/scos/dev/guidelines/guidelines.html) – Guidelines for developing on the Spryker Commerce OS.
 
