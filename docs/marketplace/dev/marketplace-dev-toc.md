@@ -23,9 +23,9 @@ Here find developer resources that explain how to build, manage and upgrade a Sp
 
 * [**Data import**](/docs/scos/dev/data-import/{{page.version}}/data-import.html) – How to import data from other systems into the Spryker Marketplace project. 
 
-* [**Frontend**](/docs/marketplace/dev/front-end/{{page.version}}/front-end.html) – How to build and set up the Merchant Portal front-end and add additional frontend functionality.
+* [**Front-end**](/docs/marketplace/dev/front-end/{{page.version}}/front-end.html) – How to build and set up the Merchant Portal front-end and add additional frontend functionality.
 
-* [**Howtos**](/docs/marketplace/dev/howtos/howtos.html) – How-tos for developing in the Marketplace platform.
+* [**HowTos**](/docs/marketplace/dev/howtos/howtos.html) – How-tos for developing in the Marketplace platform.
 
 * [**Technical enhancement guides**](/docs/marketplace/dev/technical-enhancement/{{page.version}}/technical-enhancement.html) – Integration guides for tools that enhance the Spryker Marketplace platform.
 
