@@ -11,6 +11,6 @@ template: concept-topic-template
 
 * [**Features**](/docs/scos/user/features/{{page.version}}/features.html) – Describes Spryker Commerce OS features in detail, including functionality, business value, and use-case examples.
 
-* [**Back office user guides**](/docs/scos/user/back-office-user-guides/{{page.version}}/about-back-office-user-guides.html) Explains how administrators and shop owners can manage their stores from the shop administration area, or Back Office.
+* [**Back office user guides**](/docs/scos/user/back-office-user-guides/{{page.version}}/about-back-office-user-guides.html) – Explains how administrators and shop owners can manage their stores from the shop administration area, named the Back Office.
 
-* [**Technology partners**](/docs/scos/user/technology-partners/{{page.version}}/technology-partners.html) Information about our Technology Partner integration solutions.
+* [**Technology partners**](/docs/scos/user/technology-partners/{{page.version}}/technology-partners.html)– Information about our Technology Partner integration solutions.
