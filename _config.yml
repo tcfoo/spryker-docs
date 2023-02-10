@@ -182,6 +182,7 @@ versions:
   '202108.0': '202108.0'
   '202204.0': '202204.0'
   '202212.0': 'Upcoming release'
+  '202302.0': '202302.0'
 
 # versioned categories - these must match corresponding directories
 versioned_categories:
@@ -212,6 +213,7 @@ versioned_categories:
       - data-import
       - data-export
       - glue-api-guides
+      - glue-api-guides-new
       - technology-partner-integration-guides
       - the-docker-sdk
       - migration-and-integration
