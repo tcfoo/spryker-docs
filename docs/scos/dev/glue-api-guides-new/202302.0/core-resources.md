@@ -1,9 +1,9 @@
 ---
-title: Glue REST API New
+title: Core resources
 last_updated: February 18 2023
 template: glue-api-storefront-guide-template
 originalLink: https://documentation.spryker.com/2021080/docs/glue-rest-api-new
-originalArticleId: asdsdss5sad465asd1s
+originalArticleId: 079aab25-daa2-4b01-8433-6eb6b7973272
 redirect_from:
   - /docs/glue-rest-api-new
   - /docs/en/glue-rest-api-new

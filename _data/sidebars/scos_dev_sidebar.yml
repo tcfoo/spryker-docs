@@ -573,8 +573,24 @@ entries:
         url: /docs/scos/dev/glue-api-guides-new/overview.html
         include_versions:
         - "202302.0"
-      - title: Getting Started
-        url: /docs/scos/dev/glue-api-guides-new/getting-started.html
+      - title: Infrastructure
+        url: /docs/scos/dev/glue-api-guides-new/infrastructure.html
+        include_versions:
+        - "202302.0"
+      - title: Authentication and authorization
+        url: /docs/scos/dev/glue-api-guides-new/authentication-and-authorization.html
+        include_versions:
+        - "202302.0"
+      - title: Core resources
+        url: /docs/scos/dev/glue-api-guides-new/core-resources.html
+        include_versions:
+        - "202302.0"
+      - title: Errors
+        url: /docs/scos/dev/glue-api-guides-new/errors.html
+        include_versions:
+        - "202302.0"
+      - title: Documenting
+        url: /docs/scos/dev/glue-api-guides-new/documenting.html
         include_versions:
         - "202302.0"
       - title: API Reference
@@ -586,18 +602,9 @@ entries:
             url: /docs/scos/dev/glue-api-guides-new/api-reference/rest-api-b2c-demo-shop-reference.html
           - title: REST API B2B Demo Shop reference
             url: /docs/scos/dev/glue-api-guides-new/api-reference/rest-api-b2b-demo-shop-reference.html
-      - title: Use cases
-        url: /docs/scos/dev/glue-api-guides-new/use-cases.html
-        include_versions:
-        - "202302.0"
-      - title: Troubleshooting and FAQss
-        url: /docs/scos/dev/glue-api-guides-new/troubleshooting-and-faq.html
-        include_versions:
-        - "202302.0"
-      - title: Conclusion
-        url: /docs/scos/dev/glue-api-guides-new/conclusions.html
-        include_versions:
-        - "202302.0"
+      
+      
+      
 
   - title: Glue API guides
     nested:

@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Authentication and authorization
 last_updated: February 18 2023
 template: default
 originalLink: https://documentation.spryker.com/2023020/docs/glue-rest-api-new/getting-started.html
