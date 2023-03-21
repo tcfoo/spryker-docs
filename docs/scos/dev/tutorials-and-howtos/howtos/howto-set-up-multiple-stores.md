@@ -213,6 +213,9 @@ Also, make sure that commands that need to trigger for each store have stores: `
 ```
 
 ## Configure the deploy file
+{% info_block warningBox "Multiple stores in cloud environments" %}
+For PaaS customers, please inform our Support once you have prepared your deploy.yml file as described below, as ajustments on the infrastructure need to be made so that your new store will be functional.
+{% endinfo_block %}
 
 According to the desired infrastructure setup, configure the deploy file for the multi-store setup. In the following example, we configure the [multi-store setup 1](#multi-store-setup-infrastructure-options): database, search engine, and key-value storage are shared:
 
