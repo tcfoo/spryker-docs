@@ -543,6 +543,7 @@ composer show spryker/secrets-manager-aws # Verify the version
 composer require spryker/oauth-auth0:"^1.0.1"
 composer show spryker/oauth-auth0 # Verify the version
 ```
+# Security release notes 202306.1
 
 ## Missing security HTTP headers
 
